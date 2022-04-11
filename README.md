@@ -1,5 +1,5 @@
 ### Ola Tudo blz ?👋
-Meu nome é Rayroni,tenho 23 anos
+Meu nome é Rayroni, tenho 23 anos ,amo tecnologia ,sou estudante atualmente de Desenvolvimento de Software e apps (Jogos Digitais) na Universidade Estácio de Sá ,e estou no 3° Período.
 
 - 🔭 Em busca de oportunidades em projetos e de poder contribuir.
 - 🌱 Estudando React
