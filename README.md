@@ -1,5 +1,6 @@
 ### Ola Tudo blz ?👋
 Meu nome é Rayroni, tenho 23 anos ,amo tecnologia ,sou estudante atualmente de Desenvolvimento de Software e apps (Jogos Digitais) na Universidade Estácio de Sá ,e estou no 3° Período.
+https://bouncy-magazine-389.notion.site/Rayroni-Front-End-Developer-UX-UI-Designer-be1e6edb13a0461faf46ec5ad11b2f19
 
 - 🔭 Em busca de oportunidades em projetos e de poder contribuir.
 - 🌱 Estudando React
