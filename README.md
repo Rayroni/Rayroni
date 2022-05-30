@@ -5,7 +5,7 @@ Meu nome é Rayroni, tenho 23 anos ,amo tecnologia ,sou estudante atualmente de 
 Portfólio Figma:https://bouncy-magazine-389.notion.site/Rayroni-Front-End-Developer-UX-UI-Designer-be1e6edb13a0461faf46ec5ad11b2f19
 
 - 🔭 Em busca de oportunidades em projetos e de poder contribuir.
-- 🌱 Estudando React
+- 🌱 Always focus on the positive
 <div>
   <a href="https://github.com/Rayroni">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayroni&show_icons=true$theme=dracula&include_all_commits=true&count_private=true"/>
